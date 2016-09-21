@@ -1,4 +1,4 @@
-# Welcome to GitHub for Developers!
+# Welcome to GitHub for Everyone!
 
 ### Facilitators
 - On the Mic:
