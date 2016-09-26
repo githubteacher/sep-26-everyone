@@ -11,7 +11,9 @@ Soooooo many restaurants in Houston.
 - Cafe Brasil
 - ...
 
+My personal favorite is Beaver's BBQ --- **Best fancy cocktails in Houston!!!**
+
 ### Activities
-- Texans Game
+- Texans Game (Houston's Pro Football Team!)
 - Museum of Fine Arts
 - Houston Zoo
