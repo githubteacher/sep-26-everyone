@@ -1,4 +1,4 @@
-# Kansas City, MO
+# KC, MO
 
 ### Restaurants
 - Joe's Kansas City BBQ (Z-man sandwich!!! Burnt ends!!!)
