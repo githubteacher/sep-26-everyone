@@ -4,3 +4,5 @@
 # West Coast
 
 -- Forget about food
+
+-- Exercise more -- run, bike, hike, swim!!!
