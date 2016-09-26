@@ -1,4 +1,4 @@
-# Geneva, Switzerland
+# GVA, Switzerland
 
 ### Restaurants
 - Bain de Paquis (local food)
