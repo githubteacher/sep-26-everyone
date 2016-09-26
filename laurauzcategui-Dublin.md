@@ -18,7 +18,7 @@ Guinness:
 
 - [Bunsen](http://www.bunsen.ie/) Best Burgers in Town
 
-- [Umi]()
+- [Umi](http://umifalafel.ie/) Falafel and delicious food
 
 
 ### Activities
