@@ -3,7 +3,7 @@
 ### Restaurants
 - Chimichanga
 - Frankie&Benny
-- Welcome Inn
+- Welcome Inn (Descent pub grub)
 
 ### Activities
 - The Point (Theatre)
