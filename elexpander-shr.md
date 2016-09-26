@@ -1,4 +1,4 @@
-# Hammersmith
+# Hammersmith City
 
 
 ### Restaurants
