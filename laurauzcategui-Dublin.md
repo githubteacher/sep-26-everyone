@@ -1,4 +1,6 @@
-# Dublin 
+
+# Dublin
+
 Dublin is located far far far away in an Island named Ireland.
 
  Do you know about leprechauns and Guinness ?
@@ -11,4 +13,14 @@ Leprechauns:
 Guinness:
 ![alt text](http://cdn.skim.gs/images/zq4nz2jwqtaiq4xusfsm/guinness-beer-will-soon-be-vegan "Guinness Love")
 
-See you around!!
+
+### Restaurants
+
+- [Bunsen](http://www.bunsen.ie/) Best Burgers in Town
+
+
+### Activities
+
+- [Cliff of Moher](http://www.cliffsofmoher.ie/) Amazing scenery from Brave Heart.
+
+See you around! :)
