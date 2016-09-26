@@ -8,3 +8,5 @@
 ### Activities
 - Walt Disney World
 - Winter Park Boat Tours
+
+### Best times to visit
