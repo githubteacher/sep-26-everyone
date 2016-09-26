@@ -7,9 +7,9 @@ Nothing unusual Guildford is better for activities
 
 Activities
 
-Computer Programming Workshops!
+Computer Programming Workshops! - Workshops are good introductions to programming
 Shopping
-Ice Skating
+Ice Skating - You can skate year round, it's very popular round Christmas & New Year
 Bowling
 Walking in the countryside
 
