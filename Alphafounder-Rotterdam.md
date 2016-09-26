@@ -2,9 +2,9 @@
 
 ### Restaurants
 - Burgertrut (Vegan burgers)
-- Yama
+- Yama (Japanese food)
 
 
 ### Activities
-- Markthal
-- Kop van Zuid
+- Markthal (very cool shops to visit)
+- Kop van Zuid (awesome beer brewer)
