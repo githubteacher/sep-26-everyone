@@ -1,7 +1,6 @@
-<<<<<<< cc0396e3b4875d91f9bf842215ee856719d947b4
+
 # Dublin
-=======
->>>>>>> Updating Dublin
+
 Dublin is located far far far away in an Island named Ireland.
 
  Do you know about leprechauns and Guinness ?
