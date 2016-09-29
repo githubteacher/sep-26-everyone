@@ -7,5 +7,6 @@
 ### Activities
 - Sailing on Geneva lake
 - Scuba diving in Geneva lake
-- Jog around Geneva lake
-- Climb surrounding mountains (Jura or Saleve)
+- Jogging around Geneva lake
+- Climbing surrounding mountains (Jura or Saleve)
+
